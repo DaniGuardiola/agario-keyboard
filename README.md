@@ -1,13 +1,8 @@
-# godify
+# Keyboard for Agar.io
 
-[![Available on Chrome Webstore](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_496x150.png)](https://chrome.google.com/webstore/detail/god-to-fsm/edadgbfdoimjdnkgijfokcihfdaadhej)
+[![Available on Chrome Webstore](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_496x150.png)](https://chrome.google.com/webstore/detail/agario-keyboard/null)
 
-Translate religious texts to actually reveal The Truth
+Now you can play the famous game agar.io on you computer _with keyboard shortcuts._
+Yes, that's right, you can play your favourite cell-based game with keyboard rather than mouse _right now._
 
-Install it, then click the extension icon to translate religious texts to show The Truth of our Lord the Flying Spaghetti Monster!
-
-Example sites to try it and have fun:
-
-- https://www.wikiwand.com/en/Existence_of_God
-- http://www.conservapedia.com/God
-- http://www.wikihow.com/Defend-a-Belief-
+All you have to do is install it from the chromestore and you can start playing like a boss!
